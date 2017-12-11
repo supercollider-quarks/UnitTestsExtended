@@ -1,0 +1,5 @@
+(
+	\name: "UnitTestingExtended",
+	\path: "UnitTestingExtended", // path relative to the root Quarks folder
+	\summary: "Unit Tests which take too long time to be run automatically"
+)
